@@ -1,0 +1,88 @@
+.Card{
+    border-radius: 10px;
+    max-width: 317px;
+    overflow: hidden;
+    background-color: #1A1B21;
+    color: #FFFFFF;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.name{
+    margin-top: 1rem;
+    margin-bottom: 0;
+}
+
+.subtitle{
+    margin-top: 0;
+    margin-bottom: 5px;
+    font-weight: 200;
+    font-size: 0.75rem;
+    color: #F3BF99;
+}
+
+.btn-email{
+    width: 247px;
+    padding: 7px;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    display: block;
+    border-radius: 6px;
+    margin: auto;
+    margin-top: 16px;
+    margin-bottom: 0;
+    border: 1px solid #D1D5DB;
+}
+
+a.site{
+    margin-top: 0;
+    display: block;
+    text-decoration: none;
+    color: #F5F5F5;
+    font-size: 10.2px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.svg-mail{
+    margin-right: 8px;
+}
+
+.sAbout{
+    max-width: 247px;
+    margin: auto;
+}
+
+.About{
+    margin-top: 2em;
+    margin-bottom: 5px;
+}
+
+.Interests{
+    margin-top: 16px;
+    margin-bottom: 5px;
+}
+
+h1{
+    font-size: 16px;
+}
+
+p{
+    line-height: 150%;
+    font-size: 10.24px;
+    margin: 0;
+}
+
+.Footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+    height: 4rem;
+    background-color: #161619;
+    gap: 24px;
+}
